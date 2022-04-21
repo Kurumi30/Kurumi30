@@ -32,3 +32,6 @@
 📪[E-mail para contato](mailto:fernandoshengxinzhu@gmail.com)
 - [WhatsApp](wa.me/19737562474)
 
+##
+
+![snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)
