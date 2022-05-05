@@ -30,7 +30,7 @@
 
 ## Links úteis:
 📪[E-mail para contato](mailto:fernandoshengxinzhu@gmail.com)
-- [WhatsApp](wa.me/19737562474)
+
 
 ##
 
