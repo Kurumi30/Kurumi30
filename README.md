@@ -1,5 +1,4 @@
-### Olá! Eu sou o Fernando Zhu 👋
-
+![image](https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png)
 ## Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bsd002)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FernandoSXZ)
