@@ -33,5 +33,6 @@
 
 ##
 
-![snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)<br/>
+![snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)
+<br/>
 ![visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)
