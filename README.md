@@ -36,4 +36,4 @@
 ![snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)
 <br/>
 ![visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)
-<!--[visitas2](https://komarev.com/ghpvc/?username=Kurumi30&color=ff69b4)-->
+<![visitas2](https://komarev.com/ghpvc/?username=Kurumi30&color=ff69b4)>
