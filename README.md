@@ -5,8 +5,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FernandoZhu14)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/277380/kurumi30)
 
-![Fernando Zhu GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi30&theme=tokyonight)
+![Fernando Zhu GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kurumi30&hide=html&exclude_repo=python_vim&hide_border=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo
 
