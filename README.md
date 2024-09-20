@@ -31,7 +31,7 @@
 
 ##
 
-🚀Estudando programação de forma autodidata e em busca de novos conhecimentos sempre🧠
+🚀 Viajante no mundo da programação... 💻
 
 ## Links úteis:
 📪[E-mail para contato](mailto:fernandoshengxinzhu@gmail.com)
