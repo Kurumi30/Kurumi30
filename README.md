@@ -26,6 +26,7 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img align="center" alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
+    <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white">
 <!--     <img align="center" alt="yarn" src="https://img.shields.io/badge/YARN%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white"> -->
 </div><br/>
 
