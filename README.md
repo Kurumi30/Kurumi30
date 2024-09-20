@@ -21,9 +21,12 @@
     <!--img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"-->
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+    <img align="center" alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+    <img align="center" alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
+<!--     <img align="center" alt="yarn" src="https://img.shields.io/badge/YARN%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white"> -->
 </div><br/>
 
 ##
