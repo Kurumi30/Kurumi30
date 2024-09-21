@@ -1,9 +1,9 @@
 <img align="center" alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
 
-## Minhas redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bsd002)
-<!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FernandoSXZ) -->
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FernandoZhu14) -->
+## Minhas redes sociais 🛰
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)]([https://instagram.com/bsd002](https://fz-linktree.vercel.app/))
+<!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() -->
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 <!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/277380/kurumi30) -->
 
 ![Fernando Zhu GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -34,15 +34,10 @@
 
 🚀 Viajante no mundo da programação... 💻
 
-## Links úteis:
-📪[E-mail para contato](mailto:fernandoshengxinzhu@gmail.com)
-
+![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
+<!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
 
 ##
 <img src="https://raw.githubusercontent.com/Kurumi30/Kurumi30/output/github-contribution-grid-snake.svg">
 <!--[snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)-->
 <br/>
-
-![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
-
-<!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
