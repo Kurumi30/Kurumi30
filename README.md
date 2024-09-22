@@ -1,7 +1,7 @@
 <img align="center" alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
 
 ## Minhas redes sociais 🛰
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)]([https://instagram.com/bsd002](https://fz-linktree.vercel.app/))
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://fz-linktree.vercel.app/)
 <!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() -->
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 <!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/277380/kurumi30) -->
