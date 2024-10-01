@@ -36,8 +36,4 @@
 
 ![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
 <!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
-
-##
-<img src="https://raw.githubusercontent.com/Kurumi30/Kurumi30/output/github-contribution-grid-snake.svg">
-<!--[snake gif](https://github.com/Kurumi30/Kurumi30/blob/output/github-contribution-grid-snake.gif)-->
 <br/>
