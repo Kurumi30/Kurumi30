@@ -1,15 +1,17 @@
 <img align="center" alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
 
 ## Minhas redes sociais 🛰
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://fz-linktree.vercel.app/)
-<!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() -->
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
-<!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/277380/kurumi30) -->
+<a href="https://fz-linktree.vercel.app/">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white">
+</a>
 
-![Fernando Zhu GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-<!--img src="https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/-->
+#
+
+<!--![Fernando Zhu GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)-->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi30&layout=compact&langs_count=9&theme=dracula"/>
-<!--[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kurumi30&hide=html&exclude_repo=python_vim&hide_border=true&theme=dracula)-->
+</div>
 
 ## Tecnologias que estou aprendendo
 
@@ -28,7 +30,7 @@
     <img align="center" alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
     <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white">
 <!--     <img align="center" alt="yarn" src="https://img.shields.io/badge/YARN%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white"> -->
-</div><br/>
+</div><br>
 
 ##
 
@@ -36,7 +38,6 @@
 
 ![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
 <!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
-<br
     
 #
 
