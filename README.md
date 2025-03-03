@@ -49,7 +49,7 @@
 🚀 Apenas um viajante no mundo da programação... <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="50"/>
 
 <p align="center">
-    <img alt="visits" src="https://count.getloli.com/get/@:Kurumi30?theme=gelbooru">
+    <img alt="visits" src="https://count.getloli.com/get/@Kurumi30?theme=gelbooru&pixelated=0&darkmode=auto">
 </p>
     
 #
