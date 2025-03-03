@@ -8,7 +8,7 @@
     <img alt="linktree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white">
 </a>
 
-## Tecnologias que estou usando/aprendendo
+## Linguagens, ferramentas e frameworks que estou usando/aprendendo
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
