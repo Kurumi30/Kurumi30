@@ -2,7 +2,8 @@
 
 ## Minhas redes sociais 🛰
 <a href="https://fz-linktree.vercel.app/">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"> -->
+    <img alt="linktree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white">
 </a>
 
 #
