@@ -1,4 +1,6 @@
-<img alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
+<p align="center">
+    <img alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png" height="220">
+</p>
 
 ## Minhas redes sociais 🛰
 <a href="https://fz-linktree.vercel.app/">
@@ -46,8 +48,9 @@
 
 🚀 Apenas um viajante no mundo da programação... <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="50"/>
 
-![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
-<!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
+<p align="center">
+    <img alt="visits" src="https://count.getloli.com/get/@:Kurumi30?theme=gelbooru">
+</p>
     
 #
 
