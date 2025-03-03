@@ -8,11 +8,11 @@
 
 ## Tecnologias que estou usando/aprendendo
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-    <!--img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"-->
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
     <img align="center" alt="astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">
@@ -27,7 +27,7 @@
 <!--     <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> -->
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
     <img align="center" alt="oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
-    <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white">
+<!--     <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white"> -->
     <img align="center" alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
     <img align="center" alt="replit" src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff">
     <img align="center" alt="gh-copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
