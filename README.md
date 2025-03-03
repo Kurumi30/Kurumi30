@@ -1,4 +1,4 @@
-<img align="center" alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
+<img alt="image" src="https://user-images.githubusercontent.com/96603684/168382259-7505efe1-10cb-4398-ae35-ee80d58325d1.png">
 
 ## Minhas redes sociais 🛰
 <a href="https://fz-linktree.vercel.app/">
@@ -6,17 +6,9 @@
     <img alt="linktree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white">
 </a>
 
-#
+## Tecnologias que estou usando/aprendendo
 
-<!--![Fernando Zhu GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)-->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi30&layout=compact&langs_count=9&theme=dracula"/>
-</div>
-
-## Tecnologias que estou aprendendo
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"><br/>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
@@ -45,9 +37,14 @@
     <img align="center" alt="google" src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white">
 </div><br>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi30&layout=compact&langs_count=9&theme=dracula"/>
+</p>
+
 ##
 
-🚀 Viajante no mundo da programação... 💻
+🚀 Apenas um viajante no mundo da programação... <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="50"/>
 
 ![visitas](https://count.getloli.com/get/@:Kurumi30?theme=gelbooru)
 <!--[visitas](https://profile-counter.glitch.me/Kurumi30/count.svg)-->
