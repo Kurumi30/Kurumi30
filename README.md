@@ -18,6 +18,7 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
     <img align="center" alt="astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">
+    <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff">
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
@@ -29,7 +30,6 @@
 <!--     <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> -->
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
     <img align="center" alt="oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
-    <img align="center" alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff">
     <img align="center" alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
     <img align="center" alt="replit" src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff">
     <img align="center" alt="gh-copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
