@@ -26,6 +26,8 @@
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
     <img align="center" alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff">
     <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
     <img align="center" alt="json" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
     <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
 <!--     <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> -->
