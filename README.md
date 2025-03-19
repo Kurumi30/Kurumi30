@@ -49,6 +49,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Kurumi30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi30&layout=compact&langs_count=9&theme=dracula"/>
+    <img src="https://github-immortality.vercel.app/api?username=Kurumi30">
 </p>
 
 ##
