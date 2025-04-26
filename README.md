@@ -40,6 +40,7 @@
     <img align="center" alt="replit" src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff">
     <img align="center" alt="gh-copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
     <img align="center" alt="gemini" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+    <img align="center" alt="firebase-studio" src="https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff">
     <img align="center" alt="github-pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
     <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
     <img align="center" alt="windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
